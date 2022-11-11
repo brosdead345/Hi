@@ -5,5 +5,5 @@
 [Selection Sort](https://brosdead345.github.io/hi/selectionsort.c)  
 [Quick Sort](https://brosdead345.github.io/hi/quicksort.c)  
 [Merge Sort](https://brosdead345.github.io/hi/mergesort.c)  
-## Search
+## Search  
 [Binary](https://brosdead345.github.io/hi/binary.c)  
