@@ -1,6 +1,6 @@
 ##bINARY sEARCH
 '''C
-/*Binary Search in Sorted Array*/
+	/*Binary Search in Sorted Array*/
 
 #include<stdio.h>
 #define SIZE 100
