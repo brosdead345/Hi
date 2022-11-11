@@ -1,5 +1,5 @@
 ##bINARY sEARCH
-'''C
+'''  C
 	/*Binary Search in Sorted Array*/
 
 #include<stdio.h>
