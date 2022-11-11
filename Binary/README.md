@@ -1,10 +1,10 @@
 ##bINARY sEARCH
-'''  C
+'''c
 	/*Binary Search in Sorted Array*/
 
-#include<stdio.h>
-#define SIZE 100
-int search(int a[], int n, int searchValue);
+#include<stdio.h>  
+#define SIZE 100  
+int search(int a[], int n, int searchValue);  
 
 main()
 {
@@ -27,9 +27,9 @@ main()
 	else
 		printf("%d found at index %d\n", searchValue, index);
 
-}
+}  
 
-int search(int a[], int n, int searchValue)
+int search(int a[], int n, int searchValue)  
 {
 	int first =0, last = n - 1, mid;
 
@@ -46,15 +46,15 @@ int search(int a[], int n, int searchValue)
 	}
 	return -1;
 }
-
+'''
 or 
+'''c
+##Recursive Binary Search in an Array
 
-/*Recursive Binary Search in an Array*/
-
-#include<stdio.h>
-#define SIZE 100
-int search(int a[], int n, int searchValue);
-int searchR(int a[], int first, int last, int searchValue);
+#include<stdio.h>  
+#define SIZE 100  
+int search(int a[], int n, int searchValue);  
+int searchR(int a[], int first, int last, int searchValue);  
 
 main()
 {
