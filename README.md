@@ -1,3 +1,3 @@
 ##hi
 
-[bubble sort](brosdead345.github.io/hi/bubblesort.c)
+[bubble sort](https://brosdead345.github.io/hi/bubblesort.c)
