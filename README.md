@@ -1,10 +1,9 @@
 ## Scam  
 ## Sorting  
 [bubble sort](bubblesort)  
-
 [Insertion Sort](insertionsort)  
-[Selection Sort](https://brosdead345.github.io/hi/selectionsort.c)  
-[Quick Sort](https://brosdead345.github.io/hi/quicksort.c)  
-[Merge Sort](https://brosdead345.github.io/hi/mergesort.c)  
+[Selection Sort](selectionsort)  
+[Quick Sort](quicksort)  
+[Merge Sort](mergesort)  
 ## Search  
-[Binary](https://brosdead345.github.io/hi/binary.c)  
+[Binary](binary)  
