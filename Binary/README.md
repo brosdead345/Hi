@@ -1,5 +1,5 @@
 ##bINARY sEARCH
-'''c
+```c
 /*Binary Search in Sorted Array*/
 #include<stdio.h>  
 #define SIZE 100  
@@ -91,4 +91,4 @@ int searchR(int a[], int first, int last, int searchValue)
 	else
 		return mid;
 }
-'''  
+```  
