@@ -6,4 +6,4 @@
 [Quick Sort](quicksort)  
 [Merge Sort](mergesort)  
 ## Search  
-[Binary](binary)  
+[Binary](Binary)  
