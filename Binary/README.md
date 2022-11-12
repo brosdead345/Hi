@@ -37,9 +37,9 @@ int search(int a[], int n, int searchValue)
 	}
 	return -1;
 }
-'''
+```
 or 
-'''c
+```c
 ##Recursive Binary Search in an Array
 
 #include<stdio.h>  
